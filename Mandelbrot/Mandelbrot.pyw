@@ -1,7 +1,6 @@
 # IMPORT
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
-import csv
 from PIL import Image, ImageTk
 from assets.scripts import algorithms, dialogs
 
